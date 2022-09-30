@@ -1,0 +1,80 @@
+,Name,Email,Position,Department
+0, JONATHAN BRITTON,jbritton@dadeschools.net,Principal,Administration
+1, CATHERINE LOPEZ,lopezc021@dadeschools.net,Assistant Principal,Administration
+2, LAMOND MORRISON,lmorrison@dadeschools.net,Assistant Principal,Administration
+3, CHRISTINE MOORE,christine.moore@dadeschools.net,Community Liaison Specialist,Clerical
+4, ELSA ORAMA,eorama@dadeschools.net,Community Liaison Specialist,Clerical
+5, DOMINIQUE TAYLOR,dominiquetaylor@dadeschools.net,Principal’s Secretary,Clerical
+6, CARLETHA NIXON,cpnixon@dadeschools.net,Registrar,Clerical
+7, SARA PULIDO,spulido@dadeschools.net,Treasurer,Clerical
+8, MICHEAL BIRTS,mbirts@dadeschools.net,Head Custodian,Custodial
+9, FRANTINA LOTT,214696@dadeschools.net,Lead Custodian,Custodial
+10, TRAVON JENKINS,336156@dadeschools.net,Custodian,Custodial
+11, LANDY SMITH,325085@dadeschools.net,Custodian,Custodial
+12, JAWAN STRACHAN,299810@dadeschools.net,Custodian,Custodial
+13, WILFRID PIERRE,209311@dadeschools.net,Teacher,Custodial
+14, MARIA GOMEZ,MCGomez@dadeschools.net,Cafeteria Manager,Food Service
+15, CYNTHIA SHORTER,msshorter47@dadeschools.net,Satellite Assistant,Food Service
+16, BARBARA QUINTANA,318834@dadeschools.net,Food Service,Food Service
+17, PRIMITIVA HERNANDEZ,211567@dadeschools.net,Food Service,Food Service
+18, ODALYS MENENDEZ PEREZ,317354@dadeschools.net,Food Service,Food Service
+19, JULIA ORTA,128174@dadeschools.net,Food Service,Food Service
+20, PAULA RODRIGUEZ,314481@dadeschools.net,Food Service,Food Service
+21, ELSA ROMERO,266549@dadeschools.net,Food Service,Food Service
+22, WILLIE PERRY,148370@dadeschools.net,Head of Security,Security
+23, TONYA WATTS,twatts01@dadeschools.net,Security Monitor,Security
+24, CARLINA FRANKLIN,cifranklin@dadeschools.net,Paraprofessional,ESOL
+25, EVELYN PEREZ,322488@dadeschools.net,Paraprofessional,ESOL
+26, ADEDOLAPO ALONGE,alongeadedolapo@dadeschools.net,Paraprofessional,SPED-InD
+27, TIFFANY CHANDLER,TChandler@dadeschools.net,Paraprofessional,SPED-InD
+28, KEENAN HARRIS,332652@dadeschools.net,Paraprofessional,SPED-InD
+29, BLANCA MONTES,bmontes@dadeschools.net,Paraprofessional,SPED-InD
+30, MARBELLA SERVIN,149080@dadeschools.net,Paraprofessional,SPED-InD
+31, PRINCESS TATE,198871@dadeschools.net,Paraprofessional,SPED-InD
+32, DWIGHT WHIPPLE,WhippleDwight68@dadeschools.net,Paraprofessional,SPED-InD
+33, ADEWALE ALONGE,alongeaj@dadeschools.net,Teacher,Electives
+34, WILLIAM BRYAN,wbryan@dadeschools.net,Teacher,Electives
+35, CHEVAS CLEMENTS,cclements@dadeschools.net,Teacher,Electives
+36, LAQUITA FERGUSON,laquitaferguson@dadeschools.net,Teacher,Electives
+37, JUAN LANDAVERDE,jlandaverde09@dadeschools.net,Teacher,Electives*
+38, GEORGE MALVESTUTO,gmalvestuto@dadeschools.net,Teacher,Electives
+39, CHARLIE TOMLINSON,ctomlinson@dadeschools.net,Teacher,Electives
+40, FRANCELENE AUGUSTIN,f.augustin@dadeschools.net,Instructional Coach,Language Arts*
+41, VALERIA LINDSAY,304895@dadeschools.net,Teacher,Language Arts
+42, SHANNEN MIRARCHI,shannenmirarchi@dadeschools.net,Teacher,Language Arts
+43, JENNIFER PEREZ CRUZ,jperezcruz@dadeschools.net,Teacher,Language Arts
+44, VICTORIA SANDERS,328959@dadeschools.net,Teacher,Language Arts
+45, NANCY SANTOS,nesantos@dadeschools.net,Teacher,Language Arts
+46, SHENEKA STEVENSON,259179@dadeschools.net,Instructional Coach,Mathematics*
+47, JULIA GRIMALDO,332701@dadeschools.net,Interventionist,Mathematics
+48, SONYA CRONKRITE,330867@dadeschools.net,Teacher,Mathematics
+49, PERLA GALINDO,pgalindo@dadeschools.net,Teacher,Mathematics
+50, CYNTHIA LINDSEY,Clewis@dadeschools.net,Teacher,Mathematics
+51, ANDRES LLANAS,andres.llanas@dadeschools.net,Teacher,Mathematics
+52, JOHANN ODERMATT,283215@dadeschools.net,Teacher,Mathematics
+53, ORLANDO RAMIREZ,335718@dadeschools.net,Teacher,Mathematics
+54, SHAWAN SHAW,183806@dadeschools.net,Teacher,Mathematics
+55, YOLANDA LACOUNT,ylacount@dadeschools.net,Instructional Coach,Reading*
+56, GUILLERMINA HERRERA,g.herrera@dadeschools.net,Teacher,Reading
+57, ERICA TIOMNO,ericatiomno@dadeschools.net,Teacher,Reading
+58, SHAKIRA WHITE,shakirawhite@dadeschools.net,Teacher,Reading
+59, ADITYA MUDIGONDA,aditya.mudigonda@dadeschools.net,Teacher,Science*
+60, JUDITH NUNEZ,judithnunezn@dadeschools.net,Teacher,Science
+61, JORDAN ORIA,oria@dadeschools.net,Teacher,Science
+62, STEPHANIE SUTTON,ssutton@dadeschools.net,Teacher,Science
+63, KENNEY CENAT,k_cenat@dadeschools.net,Teacher,Social Studies*
+64, MICHAEL FITTS,mbfitts@dadeschools.net,Teacher,Social Studies
+65, JACQUELINE JONES,Jfancher-jones@dadeschools.net,Teacher,Social Studies
+66, KETSIA DEL RIEGO,kdelriego@dadeschools.net,LEA,SPED*
+67, CORDELIA CURRIE,cordelia@dadeschools.net,Teacher,SPED
+68, HARONIQUE DURHAM,210073@dadeschools.net,Teacher,SPED-EBD
+69, SHELEATHIA WATTS,smwatts@dadeschools.net,Teacher,SPED-EBD
+70, NYEMA COLLIER,334359@dadeschools.net,Teacher,SPED-InD
+71, ELIZABETH JUSTE,ejuste@dadeschools.net,Teacher,SPED-InD
+72, EDWARD MCCLAIN,emcclain@dadeschools.net,Teacher,SPED-InD
+73, MARGARET PETTA,mpetta@dadeschools.net,Teacher,SPED-InD
+74, ONDINA RODRIGUEZ,ondinarodriguez@dadeschools.net,Teacher,SPED-InD
+75, ADIA SMITH-YOUNG,adia33@dadeschools.net,Teacher,SPED-InD
+76, LISA MORRISON MILTON,lisamilton@dadeschools.net,Counselor,Student Services
+77, JUSTIN BESS,jbess@dadeschools.net,PBS Team Leader,Student Services
+78, DON MCKNIGHT,drmcknight@dadeschools.net,"SCSI, Athletics",Student Services
